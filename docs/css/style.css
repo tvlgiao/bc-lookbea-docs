@@ -56,3 +56,7 @@ pre code {
 .panel-title a {
 	display: block;
 }
+
+.wy-nav-content{
+	max-width: none;
+}

@@ -240,15 +240,17 @@
                   <div class="panel-body">
                     <div class="form-group">
                       <label for="chiara_home_banner3_item1_img">Background Image URL:</label>
-                      <input ng-model="item1_img" type="text" class="form-control" id="chiara_home_banner3_item1_img" ng-init="item1_img='https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand01.png'">
+                      <input ng-model="item1_img" type="text" class="form-control" id="chiara_home_banner3_item1_img" ng-init="item1_img='https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand1.jpg'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_home_banner3_item1_alt">Image Alt:</label>
-                      <input ng-model="item1_alt" type="text" class="form-control" id="chiara_home_banner3_item1_alt">
+                      <input ng-model="item1_alt" type="text" class="form-control" id="chiara_home_banner3_item1_alt"
+                      ng-init="item1_alt='Banner1'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_home_banner3_item1_link">Link URL:</label>
-                      <input ng-model="item1_link" type="text" class="form-control" id="chiara_home_banner3_item1_link">
+                      <input ng-model="item1_link" type="text" class="form-control" id="chiara_home_banner3_item1_link"
+                      ng-init="item1_link='#'">
                     </div>
                   </div>
                 </div>
@@ -265,15 +267,17 @@
                   <div class="panel-body">
                     <div class="form-group">
                       <label for="chiara_home_banner3_item2_img">Background Image URL:</label>
-                      <input ng-model="item2_img" type="text" class="form-control" id="chiara_home_banner3_item2_img" ng-init="item2_img='https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand02.png'">
+                      <input ng-model="item2_img" type="text" class="form-control" id="chiara_home_banner3_item2_img" ng-init="item2_img='https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand2.jpg'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_home_banner3_item2_alt">Image Alt:</label>
-                      <input ng-model="item2_alt" type="text" class="form-control" id="chiara_home_banner3_item2_alt">
+                      <input ng-model="item2_alt" type="text" class="form-control" id="chiara_home_banner3_item2_alt"
+                      ng-init="item2_alt='Banner2'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_home_banner3_item2_link">Link URL:</label>
-                      <input ng-model="item2_link" type="text" class="form-control" id="chiara_home_banner3_item2_link">
+                      <input ng-model="item2_link" type="text" class="form-control" id="chiara_home_banner3_item2_link"
+                      ng-init="item2_link='#'">
                     </div>
                   </div>
                 </div>
@@ -290,15 +294,17 @@
                   <div class="panel-body">
                     <div class="form-group">
                       <label for="chiara_home_banner3_item3_img">Background Image URL:</label>
-                      <input ng-model="item3_img" type="text" class="form-control" id="chiara_home_banner3_item3_img" ng-init="item3_img='https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand02.png'">
+                      <input ng-model="item3_img" type="text" class="form-control" id="chiara_home_banner3_item3_img" ng-init="item3_img='https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand3.jpg'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_home_banner3_item3_alt">Image Alt:</label>
-                      <input ng-model="item3_alt" type="text" class="form-control" id="chiara_home_banner3_item3_alt">
+                      <input ng-model="item3_alt" type="text" class="form-control" id="chiara_home_banner3_item3_alt"
+                      ng-init="item3_alt='Banner3'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_home_banner3_item3_link">Link URL:</label>
-                      <input ng-model="item3_link" type="text" class="form-control" id="chiara_home_banner3_item3_link">
+                      <input ng-model="item3_link" type="text" class="form-control" id="chiara_home_banner3_item3_link"
+                      ng-init="item3_link='#'">
                     </div>
                   </div>
                 </div>
@@ -315,15 +321,17 @@
                   <div class="panel-body">
                     <div class="form-group">
                       <label for="chiara_home_banner3_item4_img">Background Image URL:</label>
-                      <input ng-model="item4_img" type="text" class="form-control" id="chiara_home_banner3_item4_img" ng-init="item4_img='https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand02.png'">
+                      <input ng-model="item4_img" type="text" class="form-control" id="chiara_home_banner3_item4_img" ng-init="item4_img='https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand4.jpg'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_home_banner3_item4_alt">Image Alt:</label>
-                      <input ng-model="item4_alt" type="text" class="form-control" id="chiara_home_banner3_item4_alt">
+                      <input ng-model="item4_alt" type="text" class="form-control" id="chiara_home_banner3_item4_alt"
+                      ng-init="item4_alt='Banner4'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_home_banner3_item4_link">Link URL:</label>
-                      <input ng-model="item4_link" type="text" class="form-control" id="chiara_home_banner3_item4_link">
+                      <input ng-model="item4_link" type="text" class="form-control" id="chiara_home_banner3_item4_link"
+                      ng-init="item4_link='#'">
                     </div>
                   </div>
                 </div>
@@ -340,15 +348,17 @@
                   <div class="panel-body">
                     <div class="form-group">
                       <label for="chiara_home_banner3_item5_img">Background Image URL:</label>
-                      <input ng-model="item5_img" type="text" class="form-control" id="chiara_home_banner3_item5_img" ng-init="item5_img='https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand02.png'">
+                      <input ng-model="item5_img" type="text" class="form-control" id="chiara_home_banner3_item5_img" ng-init="item5_img='https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand5.jpg'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_home_banner3_item5_alt">Image Alt:</label>
-                      <input ng-model="item5_alt" type="text" class="form-control" id="chiara_home_banner3_item5_alt">
+                      <input ng-model="item5_alt" type="text" class="form-control" id="chiara_home_banner3_item5_alt"
+                      ng-init="item5_alt='Banner5'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_home_banner3_item5_link">Link URL:</label>
-                      <input ng-model="item5_link" type="text" class="form-control" id="chiara_home_banner3_item5_link">
+                      <input ng-model="item5_link" type="text" class="form-control" id="chiara_home_banner3_item5_link"
+                      ng-init="item5_link='#'">
                     </div>
                   </div>
                 </div>
@@ -365,15 +375,17 @@
                   <div class="panel-body">
                     <div class="form-group">
                       <label for="chiara_home_banner3_item6_img">Background Image URL:</label>
-                      <input ng-model="item6_img" type="text" class="form-control" id="chiara_home_banner3_item6_img" ng-init="item6_img='https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand02.png'">
+                      <input ng-model="item6_img" type="text" class="form-control" id="chiara_home_banner3_item6_img" ng-init="item6_img='https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand6.jpg'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_home_banner3_item6_alt">Image Alt:</label>
-                      <input ng-model="item6_alt" type="text" class="form-control" id="chiara_home_banner3_item6_alt">
+                      <input ng-model="item6_alt" type="text" class="form-control" id="chiara_home_banner3_item6_alt"
+                      ng-init="item6_alt='Banner6'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_home_banner3_item6_link">Link URL:</label>
-                      <input ng-model="item6_link" type="text" class="form-control" id="chiara_home_banner3_item6_link">
+                      <input ng-model="item6_link" type="text" class="form-control" id="chiara_home_banner3_item6_link"
+                      ng-init="item6_link='#'">
                     </div>
                   </div>
                 </div>
@@ -390,15 +402,17 @@
                   <div class="panel-body">
                     <div class="form-group">
                       <label for="chiara_home_banner3_item7_img">Background Image URL:</label>
-                      <input ng-model="item7_img" type="text" class="form-control" id="chiara_home_banner3_item7_img" ng-init="item7_img='https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand02.png'">
+                      <input ng-model="item7_img" type="text" class="form-control" id="chiara_home_banner3_item7_img" ng-init="item7_img='https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand7.jpg'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_home_banner3_item7_alt">Image Alt:</label>
-                      <input ng-model="item7_alt" type="text" class="form-control" id="chiara_home_banner3_item7_alt">
+                      <input ng-model="item7_alt" type="text" class="form-control" id="chiara_home_banner3_item7_alt"
+                      ng-init="item7_alt='Banner7'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_home_banner3_item7_link">Link URL:</label>
-                      <input ng-model="item7_link" type="text" class="form-control" id="chiara_home_banner3_item7_link">
+                      <input ng-model="item7_link" type="text" class="form-control" id="chiara_home_banner3_item7_link"
+                      ng-init="item7_link='#'">
                     </div>
                   </div>
                 </div>
@@ -415,65 +429,17 @@
                   <div class="panel-body">
                     <div class="form-group">
                       <label for="chiara_home_banner3_item8_img">Background Image URL:</label>
-                      <input ng-model="item8_img" type="text" class="form-control" id="chiara_home_banner3_item8_img" ng-init="item8_img='https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand02.png'">
+                      <input ng-model="item8_img" type="text" class="form-control" id="chiara_home_banner3_item8_img" ng-init="item8_img='https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand8.jpg'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_home_banner3_item8_alt">Image Alt:</label>
-                      <input ng-model="item8_alt" type="text" class="form-control" id="chiara_home_banner3_item8_alt">
+                      <input ng-model="item8_alt" type="text" class="form-control" id="chiara_home_banner3_item8_alt"
+                      ng-init="item8_alt='Banner8'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_home_banner3_item8_link">Link URL:</label>
-                      <input ng-model="item8_link" type="text" class="form-control" id="chiara_home_banner3_item8_link">
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="chiara_home_banner3_item9_heading">
-                  <h4 class="panel-title">
-                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#chiara_home_banner3_accordion" href="#chiara_home_banner3_item9_collapse" aria-expanded="false" aria-controls="chiara_home_banner3_item9_collapse">
-                      Image 9
-                    </a>
-                  </h4>
-                </div>
-                <div id="chiara_home_banner3_item9_collapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="chiara_home_banner3_item9_heading">
-                  <div class="panel-body">
-                    <div class="form-group">
-                      <label for="chiara_home_banner3_item9_img">Background Image URL:</label>
-                      <input ng-model="item9_img" type="text" class="form-control" id="chiara_home_banner3_item9_img" ng-init="item9_img='https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand02.png'">
-                    </div>
-                    <div class="form-group">
-                      <label for="chiara_home_banner3_item9_alt">Image Alt:</label>
-                      <input ng-model="item9_alt" type="text" class="form-control" id="chiara_home_banner3_item9_alt">
-                    </div>
-                    <div class="form-group">
-                      <label for="chiara_home_banner3_item9_link">Link URL:</label>
-                      <input ng-model="item9_link" type="text" class="form-control" id="chiara_home_banner3_item9_link">
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="panel panel-default">
-                <div class="panel-heading" role="tab" id="chiara_home_banner3_item10_heading">
-                  <h4 class="panel-title">
-                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#chiara_home_banner3_accordion" href="#chiara_home_banner3_item10_collapse" aria-expanded="false" aria-controls="chiara_home_banner3_item10_collapse">
-                      Image 10
-                    </a>
-                  </h4>
-                </div>
-                <div id="chiara_home_banner3_item10_collapse" class="panel-collapse collapse" role="tabpanel" aria-labelledby="chiara_home_banner3_item10_heading">
-                  <div class="panel-body">
-                    <div class="form-group">
-                      <label for="chiara_home_banner3_item10_img">Background Image URL:</label>
-                      <input ng-model="item10_img" type="text" class="form-control" id="chiara_home_banner3_item10_img" ng-init="item10_img='https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand02.png'">
-                    </div>
-                    <div class="form-group">
-                      <label for="chiara_home_banner3_item10_alt">Image Alt:</label>
-                      <input ng-model="item10_alt" type="text" class="form-control" id="chiara_home_banner3_item10_alt">
-                    </div>
-                    <div class="form-group">
-                      <label for="chiara_home_banner3_item10_link">Link URL:</label>
-                      <input ng-model="item10_link" type="text" class="form-control" id="chiara_home_banner3_item10_link">
+                      <input ng-model="item8_link" type="text" class="form-control" id="chiara_home_banner3_item8_link"
+                      ng-init="item8_link='#'">
                     </div>
                   </div>
                 </div>
@@ -512,15 +478,32 @@
                   <div class="panel-body">
                     <div class="form-group">
                       <label for="chiara_sidebar_category_banner1_item1_img">Image URL:</label>
-                      <input ng-model="item1_img" type="text" class="form-control" id="chiara_sidebar_category_banner1_item1_img" ng-init="item1_img='https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand01.png'">
+                      <input ng-model="item1_img" type="text" class="form-control" id="chiara_sidebar_category_banner1_item1_img" ng-init="item1_img='https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/banner-sidebar.jpg'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_sidebar_category_banner1_item1_alt">Image Alt:</label>
-                      <input ng-model="item1_alt" type="text" class="form-control" id="chiara_sidebar_category_banner1_item1_alt">
+                      <input ng-model="item1_alt" type="text" class="form-control" id="chiara_sidebar_category_banner1_item1_alt"
+                      ng-init="item1_title='beauty'">
+                    </div>
+                    <div class="form-group">
+                      <label for="chiara_sidebar_category_banner1_item1_link">Title:</label>
+                      <input ng-model="item1_title" type="text" class="form-control" id="chiara_sidebar_category_banner1_item1_title"
+                      ng-init="item1_title='beauty'">
+                    </div>
+                    <div class="form-group">
+                      <label for="chiara_sidebar_category_banner1_item1_link">Subtitle:</label>
+                      <input ng-model="item1_subtitle" type="text" class="form-control" id="chiara_sidebar_category_banner1_item1_subtitle"
+                      ng-init="item1_subtitle='from &pound;29.99'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_sidebar_category_banner1_item1_link">Link URL:</label>
-                      <input ng-model="item1_link" type="text" class="form-control" id="chiara_sidebar_category_banner1_item1_link">
+                      <input ng-model="item1_action_link" type="text" class="form-control" id="chiara_sidebar_category_banner1_item1_link"
+                      ng-init="item1_action_link='#'">
+                    </div>
+                    <div class="form-group">
+                      <label for="chiara_sidebar_category_banner1_item1_link">Link Text:</label>
+                      <input ng-model="item1_action_text" type="text" class="form-control" id="chiara_sidebar_category_banner1_item1_link"
+                      ng-init="item1_action_text='shop now'">
                     </div>
                   </div>
                 </div>
@@ -558,16 +541,33 @@
                 <div id="chiara_sidebar_category_banner2_item1_collapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="chiara_sidebar_category_banner2_item1_heading">
                   <div class="panel-body">
                     <div class="form-group">
-                      <label for="chiara_sidebar_category_banner2_item1_img">Image URL:</label>
-                      <input ng-model="item1_img" type="text" class="form-control" id="chiara_sidebar_category_banner2_item1_img" ng-init="item1_img='https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand01.png'">
+                      <label for="chiara_sidebar_category_banner1_item2_img">Image URL:</label>
+                      <input ng-model="item2_img" type="text" class="form-control" id="chiara_sidebar_category_banner2_item2_img" ng-init="item2_img='https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/banner-sidebar.jpg'">
                     </div>
                     <div class="form-group">
-                      <label for="chiara_sidebar_category_banner2_item1_alt">Image Alt:</label>
-                      <input ng-model="item1_alt" type="text" class="form-control" id="chiara_sidebar_category_banner2_item1_alt">
+                      <label for="chiara_sidebar_category_banner2_item2_alt">Image Alt:</label>
+                      <input ng-model="item2_alt" type="text" class="form-control" id="chiara_sidebar_category_banner2_item2_alt"
+                      ng-init="item2_alt='beauty'">
                     </div>
                     <div class="form-group">
-                      <label for="chiara_sidebar_category_banner2_item1_link">Link URL:</label>
-                      <input ng-model="item1_link" type="text" class="form-control" id="chiara_sidebar_category_banner2_item1_link">
+                      <label for="chiara_sidebar_category_banner2_item2_link">Title:</label>
+                      <input ng-model="item2_title" type="text" class="form-control" id="chiara_sidebar_category_banner2_item2_title"
+                      ng-init="item2_title='beauty'">
+                    </div>
+                    <div class="form-group">
+                      <label for="chiara_sidebar_category_banner1_item1_link">Subtitle:</label>
+                      <input ng-model="item2_subtitle" type="text" class="form-control" id="chiara_sidebar_category_banner2_item2_subtitle"
+                      ng-init="item2_subtitle='from &pound;29.99'">
+                    </div>
+                    <div class="form-group">
+                      <label for="chiara_sidebar_category_banner2_item2_link">Link URL:</label>
+                      <input ng-model="item2_action_link" type="text" class="form-control" id="chiara_sidebar_category_banner2_item2_link"
+                      ng-init="item2_action_link='#'">
+                    </div>
+                    <div class="form-group">
+                      <label for="chiara_sidebar_category_banner2_item2_link">Link Text:</label>
+                      <input ng-model="item2_action_text" type="text" class="form-control" id="chiara_sidebar_category_banner2_item2_link"
+                      ng-init="item2_action_text='shop now'">
                     </div>
                   </div>
                 </div>
@@ -606,15 +606,32 @@
                   <div class="panel-body">
                     <div class="form-group">
                       <label for="chiara_sidebar_brand_banner1_item1_img">Image URL:</label>
-                      <input ng-model="item1_img" type="text" class="form-control" id="chiara_sidebar_brand_banner1_item1_img" ng-init="item1_img='https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand01.png'">
+                      <input ng-model="item1_img" type="text" class="form-control" id="chiara_sidebar_brand_banner1_item1_img" ng-init="item1_img='https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/banner-sidebar.jpg'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_sidebar_brand_banner1_item1_alt">Image Alt:</label>
-                      <input ng-model="item1_alt" type="text" class="form-control" id="chiara_sidebar_brand_banner1_item1_alt">
+                      <input ng-model="item1_alt" type="text" class="form-control" id="chiara_sidebar_brand_banner1_item1_alt"
+                      ng-init="item1_title='beauty'">
+                    </div>
+                    <div class="form-group">
+                      <label for="chiara_sidebar_brand_banner1_item1_link">Title:</label>
+                      <input ng-model="item1_title" type="text" class="form-control" id="chiara_sidebar_brand_banner1_item1_title"
+                      ng-init="item1_title='beauty'">
+                    </div>
+                    <div class="form-group">
+                      <label for="chiara_sidebar_brand_banner1_item1_link">Subtitle:</label>
+                      <input ng-model="item1_subtitle" type="text" class="form-control" id="chiara_sidebar_brand_banner1_item1_subtitle"
+                      ng-init="item1_subtitle='from &pound;29.99'">
                     </div>
                     <div class="form-group">
                       <label for="chiara_sidebar_brand_banner1_item1_link">Link URL:</label>
-                      <input ng-model="item1_link" type="text" class="form-control" id="chiara_sidebar_brand_banner1_item1_link">
+                      <input ng-model="item1_action_link" type="text" class="form-control" id="chiara_sidebar_brand_banner1_item1_link"
+                      ng-init="item1_action_link='#'">
+                    </div>
+                    <div class="form-group">
+                      <label for="chiara_sidebar_brand_banner1_item1_link">Link Text:</label>
+                      <input ng-model="item1_action_text" type="text" class="form-control" id="chiara_sidebar_brand_banner1_item1_link"
+                      ng-init="item1_action_text='shop now'">
                     </div>
                   </div>
                 </div>
@@ -652,16 +669,33 @@
                 <div id="chiara_sidebar_brand_banner2_item1_collapse" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="chiara_sidebar_brand_banner2_item1_heading">
                   <div class="panel-body">
                     <div class="form-group">
-                      <label for="chiara_sidebar_brand_banner2_item1_img">Image URL:</label>
-                      <input ng-model="item1_img" type="text" class="form-control" id="chiara_sidebar_brand_banner2_item1_img" ng-init="item1_img='https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand01.png'">
+                      <label for="chiara_sidebar_brand_banner1_item2_img">Image URL:</label>
+                      <input ng-model="item2_img" type="text" class="form-control" id="chiara_sidebar_brand_banner2_item2_img" ng-init="item2_img='https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/banner-sidebar.jpg'">
                     </div>
                     <div class="form-group">
-                      <label for="chiara_sidebar_brand_banner2_item1_alt">Image Alt:</label>
-                      <input ng-model="item1_alt" type="text" class="form-control" id="chiara_sidebar_brand_banner2_item1_alt">
+                      <label for="chiara_sidebar_brand_banner2_item2_alt">Image Alt:</label>
+                      <input ng-model="item2_alt" type="text" class="form-control" id="chiara_sidebar_brand_banner2_item2_alt"
+                      ng-init="item2_alt='beauty'">
                     </div>
                     <div class="form-group">
-                      <label for="chiara_sidebar_brand_banner2_item1_link">Link URL:</label>
-                      <input ng-model="item1_link" type="text" class="form-control" id="chiara_sidebar_brand_banner2_item1_link">
+                      <label for="chiara_sidebar_brand_banner2_item2_link">Title:</label>
+                      <input ng-model="item2_title" type="text" class="form-control" id="chiara_sidebar_brand_banner2_item2_title"
+                      ng-init="item2_title='beauty'">
+                    </div>
+                    <div class="form-group">
+                      <label for="chiara_sidebar_brand_banner1_item1_link">Subtitle:</label>
+                      <input ng-model="item2_subtitle" type="text" class="form-control" id="chiara_sidebar_brand_banner2_item2_subtitle"
+                      ng-init="item2_subtitle='from &pound;29.99'">
+                    </div>
+                    <div class="form-group">
+                      <label for="chiara_sidebar_brand_banner2_item2_link">Link URL:</label>
+                      <input ng-model="item2_action_link" type="text" class="form-control" id="chiara_sidebar_brand_banner2_item2_link"
+                      ng-init="item2_action_link='#'">
+                    </div>
+                    <div class="form-group">
+                      <label for="chiara_sidebar_brand_banner2_item2_link">Link Text:</label>
+                      <input ng-model="item2_action_text" type="text" class="form-control" id="chiara_sidebar_brand_banner2_item2_link"
+                      ng-init="item2_action_text='shop now'">
                     </div>
                   </div>
                 </div>
@@ -689,7 +723,7 @@
 
 ### How to add your own CSS / SCSS:
 
-- **Option 1:** Edit file `assets/scss/_chiara-custom.scss`
+- **Option 1:** Edit file `assets/scss/_lookbea-custom.scss`
 - **Option 2:** Add custom CSS  in `<style>...</style>` into **Storefront** > **Footer Scripts**.
 
 ### How to add your own Javascript:
@@ -700,7 +734,7 @@
 
 ### Edit HTML:
 
-ONLY edit file `templates/chiara-custom.html`
+ONLY edit file `templates/lookbea-custom.html`
 
 --- 
 
@@ -712,7 +746,7 @@ _**WARNING: EDIT OTHER FILES WILL PREVENT UPGRADING THE THEME IN THE FUTURE!**_
 
 ![Headers](img/headers.png)
 
-Theme supports 3 header with logo position left, right or center. It is configured in **Theme Editor** > **Header & Footer** > **Logo position**.
+Theme supports 2 header with logo position left or right. It is configured in **Theme Editor** > **Header & Footer** > **Logo position**.
 
 You can configure Header style, logo size, colors, fonts in **Theme Editor** > **Header & Footer**.
 
@@ -742,7 +776,7 @@ Configure the footer in **Theme Editor** > **Footer** section.
 
 * You can change colors.
 * Show/hide web page links, categories, brands.
-* Add custom links in maximum 3 columns.
+* Add custom links in maximum 4 columns.
 * Newsletter form support top or right position of the footer.
 * Change colors of the copyright section.
 * Show/hide copyright links.
@@ -766,85 +800,27 @@ Main carousel displays on the home page can be input in **Storefront** > **Home 
 You can configure carousel settings in **Theme Editor** > **Home Page** > **Carousel** section. Here you can turn on/off this carousel, configure colors, content position and so on.
 
 
+## Homepage Product tabs
 
+![Main carousel](img/homepage-product-tabs.png)
 
+Edit banner in **Theme Editor** > **Homepage** > **Product tabs**.
 
+* You can change limit product, category slug to display.
+![Main carousel](img/homepage-product-tabs-edit.png)
 
 
 ## Homepage Banners
 
-### 5 Banners below the main carousel
+### 3 Banners below brands section
 
-![homepage 5 banners](img/homepage-5-banners.png)
+![homepage 3 banners](img/homepage-5-banners.png)
 
-Create a new banner in **Marketing** > **Banners**.
+Edit banner in **Theme Editor** > **Homepage** > **Home banner**.
 
-* **Banner Name**: `5 banners below the main carousel (home-banner1)`
-* **Banner Content**: Click on the HTML to edit HTML source.
+* You can change Banner image, banner content, banner link.
 
-```html
-<div class="chiara-section chiara-section--banners" data-local-banner-position="chiara-home-banner1">
-    <div class="chiara-banners">
-        <ul class="chiara-banners-list">
-            <li class="chiara-banners-item"><a href="#"><img src="https://cdn7.bigcommerce.com/s-g0pakqdzwl/product_images/uploaded_images/furniture-banner1.jpg?t=1534872898" alt="496x496" /><img src="https://cdn7.bigcommerce.com/s-g0pakqdzwl/product_images/uploaded_images/furniture-banner1a.png?t=1534872899" alt="496x496" /></a></li>
-            <li class="chiara-banners-item"><a href="#"><img src="https://cdn7.bigcommerce.com/s-g0pakqdzwl/product_images/uploaded_images/furniture-banner2.jpg?t=1534872900" alt="496x496" /><img src="https://cdn7.bigcommerce.com/s-g0pakqdzwl/product_images/uploaded_images/furniture-banner2a.png?t=1534872900" alt="496x496" /></a></li>
-            <li class="chiara-banners-item"><a href="#"><img src="https://cdn7.bigcommerce.com/s-g0pakqdzwl/product_images/uploaded_images/furniture-banner3.jpg?t=1534872901" alt="496x496" /><img src="https://cdn7.bigcommerce.com/s-g0pakqdzwl/product_images/uploaded_images/furniture-banner3a.png?t=1534872901" alt="496x496" /></a></li>
-        </ul>
-        <ul class="chiara-banners-list">
-            <li class="chiara-banners-item"><a href="#"><img src="https://cdn7.bigcommerce.com/s-g0pakqdzwl/product_images/uploaded_images/furniture-banner4.jpg?t=1534872902" alt="747x496" /><img src="https://cdn7.bigcommerce.com/s-g0pakqdzwl/product_images/uploaded_images/furniture-banner4a.png?t=1534872903" alt="747x496" /></a></li>
-            <li class="chiara-banners-item"><a href="#"><img src="https://cdn7.bigcommerce.com/s-g0pakqdzwl/product_images/uploaded_images/furniture-banner5.jpg?t=1534872903" alt="747x496" /><img src="https://cdn7.bigcommerce.com/s-g0pakqdzwl/product_images/uploaded_images/furniture-banner5a.png?t=1534872904" alt="747x496" /></a></li>
-        </ul>
-    </div>
-</div>
-```
-
-Or use button below to generate HTML code with your custom content:
-
-<!-- Button trigger modal -->
-<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#chiara_home_banner1_modal">
-  Launch Banner Code Generator
-</button>
-
-* **Show on Page**: `Home Page`
-* **Location**: `Top of Page`
-
-
-
-
-### Fullwidth Banner
-
-![homepage fullwidth banner](img/homepage-fullwidth-banner.png)
-
-
-Create a new banner in **Marketing** > **Banners**.
-
-* **Banner Name**: `Full width banner (home-banner2)`
-* **Banner Content**: Click on the HTML to edit HTML source.
-
-```html
-<div class="chiara-section chiara-section--banners" data-local-banner-position="chiara-home-banner2">
-    <div class="chiara-banners">
-        <ul class="chiara-banners-list">
-            <li class="chiara-banners-item"><a href="#"><img src="https://cdn7.bigcommerce.com/s-g0pakqdzwl/product_images/uploaded_images/furniture-banner6.jpg?t=1534874551" alt="1500x300" /><img src="https://cdn7.bigcommerce.com/s-g0pakqdzwl/product_images/uploaded_images/furniture-banner6a.png?t=1534874552" alt="1500x300" /></a></li>
-        </ul>
-    </div>
-</div>
-```
-
-Or use button below to generate HTML code with your custom content:
-
-<!-- Button trigger modal -->
-<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#chiara_home_banner2_modal">
-  Launch Banner Code Generator
-</button>
-
-* **Show on Page**: `Home Page`
-* **Location**: `Top of Page`
-
-
-
-
-
+![homepage 3 banners](img/homepage-3-banners-edit.png)
 
 ## New Products / Featured Products / Bestselling Products
 
@@ -882,11 +858,8 @@ Configure categories list in **Theme Editor** > **Homepage** > **Categories List
 
 * **Categories ID**: input your category IDs seperated by a comma. If not specify, categories will be display in default order automatically. Example: `40,25`. Also check [How to find category ID](https://bit.ly/2LrjUjh).
 * **Number of categories** to display.
-* **Number of sub-categories** to display.
 * **Heading**
 * **Subheading**
-* **Show banners?** If checked, input the banner image urls in the below input boxes to display beside the category names.
-* **Banner 1** to **Banner 10**: Upload your banner images in **Storefront** > **Image Manager** and copy links to here. Example: `/product_images/uploaded_images/furniture-home-cat1.jpg`
 * **Show on desktop?**
 * **Show on tablet?**
 * **Show on mobile?**
@@ -926,7 +899,6 @@ Configure Instagram section on the home page in **Theme Editor** > **Home Page**
 * **Type**: `Boxed` - display like Furniture demo. `Fullwidth` - display like Fashion demo.
 * **Heading**.
 * **Subheading**.
-* **Image fit**: `Cover` or `Contain`.
 
 
 
@@ -940,26 +912,20 @@ Configure Instagram section on the home page in **Theme Editor** > **Home Page**
 
 To display the images carousel, create a new banner in **Marketing** > **Banners**:
 
-* **Banner Name**: `Brands carousel (home-banner3)`
+* **Banner Name**: `Brands carousel (brands-carousel)`
 * **Banner Content**: Click on the HTML to edit HTML source.
 
 ```html
-<div class="chiara-section chiara-section--brandsCarousel" data-local-banner-position="chiara-home-banner3">
-    <div class="chiara-brandsCarousel">
-        <ul class="chiara-brandsCarousel-slider" data-brands-slick="">
-            <li class="chiara-brandsCarousel-item"><a href="#"><img src="https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand01.png" alt="brand01" /></a></li>
-            <li class="chiara-brandsCarousel-item"><a href="#"><img src="https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand02.png" alt="brand02" /></a></li>
-            <li class="chiara-brandsCarousel-item"><a href="#"><img src="https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand03.png" alt="brand03" /></a></li>
-            <li class="chiara-brandsCarousel-item"><a href="#"><img src="https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand04.png" alt="brand04" /></a></li>
-            <li class="chiara-brandsCarousel-item"><a href="#"><img src="https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand05.png" alt="brand05" /></a></li>
-            <li class="chiara-brandsCarousel-item"><a href="#"><img src="https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand01.png" alt="brand06" /></a></li>
-            <li class="chiara-brandsCarousel-item"><a href="#"><img src="https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand02.png" alt="brand07" /></a></li>
-            <li class="chiara-brandsCarousel-item"><a href="#"><img src="https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand03.png" alt="brand08" /></a></li>
-            <li class="chiara-brandsCarousel-item"><a href="#"><img src="https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand04.png" alt="brand09" /></a></li>
-            <li class="chiara-brandsCarousel-item"><a href="#"><img src="https://cdn7.bigcommerce.com/s-esi1aufjsk/product_images/uploaded_images/brand05.png" alt="brand10" /></a></li>
-        </ul>
-    </div>
-</div>
+<ul class="lookbea-brandsCarousel-slider" data-remote-brand-position="lookbea-brand-banner-homepage">
+<li class="lookbea-brandsCarousel-item"><a title="Brand 1" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand1.jpg" alt="Brand 1" /> </a></li>
+<li class="lookbea-brandsCarousel-item"><a title="Brand 2" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand2.jpg" alt="Brand 2" /> </a></li>
+<li class="lookbea-brandsCarousel-item"><a title="Brand 3" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand3.jpg" alt="Brand 3" /> </a></li>
+<li class="lookbea-brandsCarousel-item"><a title="Brand 4" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand4.jpg" alt="Brand 4" /> </a></li>
+<li class="lookbea-brandsCarousel-item"><a title="Brand 5" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand5.jpg" alt="Brand 5" /> </a></li>
+<li class="lookbea-brandsCarousel-item"><a title="Brand 6" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand6.jpg" alt="Brand 6" /> </a></li>
+<li class="lookbea-brandsCarousel-item"><a title="Brand 7" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand7.jpg" alt="Brand 7" /> </a></li>
+<li class="lookbea-brandsCarousel-item"><a title="Brand 8" href="#"> <img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/brand8.jpg" alt="Brand 8" /> </a></li>
+</ul>
 ```
 
 Or use button below to generate HTML code with your custom content:
@@ -997,11 +963,16 @@ Create a new banner in **Marketing** > **Banners**:
 
 #### Banner 1 on category pages
 
-* **Banner Name**: `Sidebar banner on category pages (chiara-sidebar-category-banner1)`
+* **Banner Name**: `Sidebar banner on category pages (lookbea-sidebar-category-banner1)`
 * **Banner Content**: Click on the HTML to edit HTML source.
 
 ```html
-<p data-remote-banner-position="chiara-sidebar-category-banner1"><a href="#"><img src="https://placehold.it/302x302" alt="302x302" /></a></p>
+<div data-remote-banner-position="lookbea-sidebar-category-banner1"><img title="banner-sidebar.jpg" src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/banner-sidebar.jpg" alt="banner-sidebar.jpg"/>
+<div class="sidebar-banner-content">
+<h4 class="sidebar-banner-title">beauty</h4>
+<h5 class="sidebar-banner-subtitle">from &pound;29.99</h5>
+<a class="sidebar-banner-link" href="#">shop now</a></div>
+</div>
 ```
 Or use button below to generate HTML code with your custom content:
 
@@ -1016,11 +987,16 @@ Or use button below to generate HTML code with your custom content:
 
 #### Banner 2 on category pages
 
-* **Banner Name**: `Sidebar banner on category pages (chiara-sidebar-category-banner2)`
+* **Banner Name**: `Sidebar banner on category pages (lookbea-sidebar-category-banner2)`
 * **Banner Content**: Click on the HTML to edit HTML source.
 
 ```html
-<p data-remote-banner-position="chiara-sidebar-category-banner2"><a href="#"><img src="https://placehold.it/302x500" alt="302x500" /></a></p>
+<div data-remote-banner-position="lookbea-sidebar-category-banner2"><img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/banner-sidebar.jpg" alt="banner-sidebar.jpg"/>
+<div class="sidebar-banner-content">
+<h4 class="sidebar-banner-title">beauty</h4>
+<h5 class="sidebar-banner-subtitle">from &pound;29.99</h5>
+<a class="sidebar-banner-link" href="#">shop now</a></div>
+</div>
 ```
 Or use button below to generate HTML code with your custom content:
 
@@ -1036,11 +1012,16 @@ Or use button below to generate HTML code with your custom content:
 
 #### Banner 1 on brand pages
 
-* **Banner Name**: `Sidebar banner on brand pages (chiara-sidebar-brand-banner1)`
+* **Banner Name**: `Sidebar banner on brand pages (lookbea-sidebar-brand-banner1)`
 * **Banner Content**: Click on the HTML to edit HTML source.
 
 ```html
-<p data-remote-banner-position="chiara-sidebar-brand-banner1"><a href="#"><img src="https://placehold.it/302x302" alt="302x302" /></a></p>
+<div data-remote-banner-position="lookbea-sidebar-brand-banner1"><img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/banner-sidebar.jpg" alt="banner-sidebar.jpg"/>
+<div class="sidebar-banner-content">
+<h4 class="sidebar-banner-title">beauty</h4>
+<h5 class="sidebar-banner-subtitle">from &pound;29.99</h5>
+<a class="sidebar-banner-link" href="#">shop now</a></div>
+</div>
 ```
 Or use button below to generate HTML code with your custom content:
 
@@ -1055,11 +1036,16 @@ Or use button below to generate HTML code with your custom content:
 
 #### Banner 2 on brand pages
 
-* **Banner Name**: `Sidebar banner on brand pages (chiara-sidebar-brand-banner2)`
+* **Banner Name**: `Sidebar banner on brand pages (lookbea-sidebar-brand-banner2)`
 * **Banner Content**: Click on the HTML to edit HTML source.
 
 ```html
-<p data-remote-banner-position="chiara-sidebar-brand-banner2"><a href="#"><img src="https://placehold.it/302x500" alt="302x500" /></a></p>
+<div data-remote-banner-position="lookbea-sidebar-brand-banner2"><img src="https://cdn8.bigcommerce.com/s-o0llnqp9lx/product_images/uploaded_images/banner-sidebar.jpg" alt="banner-sidebar.jpg"/>
+<div class="sidebar-banner-content">
+<h4 class="sidebar-banner-title">beauty</h4>
+<h5 class="sidebar-banner-subtitle">from &pound;29.99</h5>
+<a class="sidebar-banner-link" href="#">shop now</a></div>
+</div>
 ```
 Or use button below to generate HTML code with your custom content:
 

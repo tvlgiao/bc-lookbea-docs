@@ -1,6 +1,6 @@
-# Chiara BigCommerce Theme Documentation
+# Lookbea BigCommerce Theme Documentation
 
-Theme Version: 1.0.0 (2018-07-29)
+Theme Version: 1.0.0 (2018-10-01)
 
 Theme designed and developed by [Papathemes](https://papathemes.com) 
 

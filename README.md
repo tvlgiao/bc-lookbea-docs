@@ -1,2 +1,2 @@
-# bc-sarahmarket-docs
-Documentation for the BigCommerce Theme SarahMarket by tvlgiao
+# bc-lookbea-docs
+Documentation for the BigCommerce Theme Lookbea by tvlgiao
